@@ -15,4 +15,3 @@ An introductory project on:
 ## File Descriptions
 ### Mandatory
 **[0-run](0-run)** - shell script that runs a Python script.
-
