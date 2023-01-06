@@ -5,7 +5,7 @@ modules in Python. I further practiced using the builtin function
 `dir()` and using command line arguments within Python programs.
 
 ## Tasks :page_with_curl:
-
+### Mandatory
 **0. Import a simple function from a simple file**
   * [0-add.py](./0-add.py): Python program that imports the function
   `def add(a, b):` from the file [add_0.py](./add_0.py) and prints the
@@ -41,6 +41,7 @@ modules in Python. I further practiced using the builtin function
   * [5-variable_load.py](./5-variable_load.py): Python program that imorts the
   variable `a` from the file [variable_load_5.py](./variable_load_5.py) and prints its value.
 
+### Advanced
 * **6. Build my own calculator!**
   * [100-my_calculator.py](./100-my_calculator.py): Python program that imports all functions
   from the file [calculator_1.py](./calculator_1.py) and handles basic operations.
