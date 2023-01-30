@@ -1,10 +1,10 @@
-# Python - Test-driven development
+# 0x07.Python - Test-driven development
 In this project, I started practicing test-driven development using `docstring`
 and `unittest` in Python.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files. Includes both Holberton-provided ones as well as the
+* [tests](./tests): Folder of test files. Includes both ALX SE programming provided ones as well as the
 following eight independently-developed:
   * [0-add_integer.txt](./tests/0-add_integer.txt)
   * [2-matrix_divided.txt](./tests/2-matrix_divided.txt)
