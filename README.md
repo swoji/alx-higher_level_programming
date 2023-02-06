@@ -10,3 +10,7 @@ Thank you for visiting my programming projects. This repository contains program
 4. [0x03-python-data_structures](./0x03-python-data_structures)
 5. [0x05-python-exceptions](./0x05-python-exceptions)
 6. [0x06-python-classes](./0x06-python-classes)
+7. [0x07-python-test_driven_development](./0x07-python-test_driven_development)
+8. [0x08-python-more_classes](./0x08-python-more_classes)
+9. [0x09-python-everything_is_object](./0x09-python-everything_is_object)
+10. [0x0A-python-inheritance](,/0x0A-python-inheritance)
