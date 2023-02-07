@@ -13,4 +13,5 @@ Thank you for visiting my programming projects. This repository contains program
 7. [0x07-python-test_driven_development](./0x07-python-test_driven_development)
 8. [0x08-python-more_classes](./0x08-python-more_classes)
 9. [0x09-python-everything_is_object](./0x09-python-everything_is_object)
-10. [0x0A-python-inheritance](,/0x0A-python-inheritance)
+10. [0x0A-python-inheritance](./0x0A-python-inheritance)
+11. [0x0B-python-input_output](./0x0B-python-input_output)
