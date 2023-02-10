@@ -15,3 +15,4 @@ Thank you for visiting my programming projects. This repository contains program
 9. [0x09-python-everything_is_object](./0x09-python-everything_is_object)
 10. [0x0A-python-inheritance](./0x0A-python-inheritance)
 11. [0x0B-python-input_output](./0x0B-python-input_output)
+12. [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle)
