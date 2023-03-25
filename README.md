@@ -16,3 +16,5 @@ Thank you for visiting my programming projects. This repository contains program
 10. [0x0A-python-inheritance](./0x0A-python-inheritance)
 11. [0x0B-python-input_output](./0x0B-python-input_output)
 12. [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle)
+13. [0x0D-SQL_introduction](./0x0D-SQL_introduction)
+14. [0x0E-SQL_more_queries](./0x0E-SQL_more_queries)
