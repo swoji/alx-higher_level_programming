@@ -2,7 +2,7 @@
 
 This project involved learning how to use the `urllib` and `requests` Python
 libraries to send and receive HTTP messages to URL's. I practiced sending `GET`
-and `POST` requests, fetching JSON resources, and interacting with API's (GitHub API, and Twitter API).
+and `POST` requests, fetching JSON resources, and interacting with GitHub API.
 
 ## Tasks :page_with_curl:
 
