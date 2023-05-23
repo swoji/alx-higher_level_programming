@@ -18,7 +18,7 @@ Thank you for visiting my programming projects. This repository contains program
 12. [0x0C-python-almost_a_circle](./0x0C-python-almost_a_circle)
 13. [0x0D-SQL_introduction](./0x0D-SQL_introduction)
 14. [0x0E-SQL_more_queries](./0x0E-SQL_more_queries)
-15. [ 0x0F-python-object_relational_mapping](./0x0F-python-object_relational_mapping)
+15. [0x0F-python-object_relational_mapping](./0x0F-python-object_relational_mapping)
 16. [0x10-python-network_0](./0x10-python-network_0)
 17. [0x11-python-network_1](./0x11-python-network_1)
 18. [0x12-javascript-warm_up](./0x12-javascript-warm_up)
